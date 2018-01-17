@@ -1,0 +1,20 @@
+.main {
+    text-align: center;
+    height: 50px;
+}
+
+.buttons {
+    text-align: Center;
+}
+
+button {
+    background-color: aqua;
+    width: 100px;
+    height: 40px;
+    color: red;
+    font-size: 12pt;
+}
+
+.selected {
+    background-color: yellow;
+}
